@@ -1,0 +1,1 @@
+# GitFlow example - Resul School Module Git
